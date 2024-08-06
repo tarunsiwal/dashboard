@@ -24,3 +24,5 @@ To start the client, run: npm start
 With this setup, you should see the dashboard.
 
 Thanks for the opportunity, Blackcoffer.
+
+![dashboard preview](https://github.com/user-attachments/assets/301c0d9e-416e-4efc-8d3c-a982f0302618)
